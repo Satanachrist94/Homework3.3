@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ChatServiceTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2022-06-12T10:27:10" hostname="DESKTOP-C87IGSG" time="0.111">
+  <properties/>
+  <testcase name="deleteChatFalse" classname="ChatServiceTest" time="0.109"/>
+  <testcase name="clearComplete" classname="ChatServiceTest" time="0.0"/>
+  <testcase name="deleteChatComplete" classname="ChatServiceTest" time="0.0"/>
+  <testcase name="clearFalse" classname="ChatServiceTest" time="0.0"/>
+  <testcase name="readChatTrue" classname="ChatServiceTest" time="0.0"/>
+  <testcase name="deleteMessageCopmlete" classname="ChatServiceTest" time="0.0"/>
+  <testcase name="editMessageComplete" classname="ChatServiceTest" time="0.0"/>
+  <testcase name="ReadChatFalse" classname="ChatServiceTest" time="0.001"/>
+  <testcase name="sendMessage" classname="ChatServiceTest" time="0.0"/>
+  <testcase name="getUnreadChatsCountFalse" classname="ChatServiceTest" time="0.0"/>
+  <testcase name="getUnreadChatsCount" classname="ChatServiceTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
